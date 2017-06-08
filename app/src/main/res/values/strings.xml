@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Desafio LuizaLabs</string>
+    <string name="action_settings">Settings</string>
+    <string name="maps">Desafio LuizaLabs</string>
+    <string name="menuTempC">menuTempC</string>
+    <string name="menuTempF">menuTempF</string>
+    <string name="menuChangeMap">menuMap</string>
+    <string name="menuChangeList">menuList</string>
+</resources>

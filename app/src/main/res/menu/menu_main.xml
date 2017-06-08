@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".view.MainActivity">
+
+
+    <item
+        android:id="@+id/itm_ChangeTemp"
+        android:orderInCategory="100"
+        android:icon="@drawable/fahrenheit"
+        android:title="@string/menuTempF"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/itm_ChangeIntent"
+        android:orderInCategory="100"
+        android:icon="@drawable/map"
+        android:title="@string/menuChangeMap"
+        app:showAsAction="always" />
+
+</menu>
+
+
